@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/KataCode for github/ConwaysGameofLife/ConwaysGameofLife/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/KataCode for github/ConwaysGameofLife/ConwaysGameofLife/bin/Debug/ConwaysGameofLife.exe.mdb
+/Users/nelsfoltz/Desktop/KataCode for github/ConwaysGameofLife/ConwaysGameofLife/bin/Debug/ConwaysGameofLife.exe
+/Users/nelsfoltz/Desktop/KataCode for github/ConwaysGameofLife/ConwaysGameofLife/obj/x86/Debug/ConwaysGameofLife.exe
+/Users/nelsfoltz/Desktop/KataCode for github/ConwaysGameofLife/ConwaysGameofLife/obj/x86/Debug/ConwaysGameofLife.exe.mdb

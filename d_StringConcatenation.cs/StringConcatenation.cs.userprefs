@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8DB2F7FB-DCC6-4BF4-92E5-E04D04150741}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringConcatenation.cs/Program.cs">
+    <Files>
+      <File FileName="StringConcatenation.cs/Program.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StringConcatenation.cs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

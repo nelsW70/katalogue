@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/KataCode for github/CaseSwitch.cs/CaseSwitch.cs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/KataCode for github/CaseSwitch.cs/CaseSwitch.cs/bin/Debug/CaseSwitch.cs.exe.mdb
+/Users/nelsfoltz/Desktop/KataCode for github/CaseSwitch.cs/CaseSwitch.cs/bin/Debug/CaseSwitch.cs.exe
+/Users/nelsfoltz/Desktop/KataCode for github/CaseSwitch.cs/CaseSwitch.cs/obj/x86/Debug/CaseSwitch.cs.exe
+/Users/nelsfoltz/Desktop/KataCode for github/CaseSwitch.cs/CaseSwitch.cs/obj/x86/Debug/CaseSwitch.cs.exe.mdb

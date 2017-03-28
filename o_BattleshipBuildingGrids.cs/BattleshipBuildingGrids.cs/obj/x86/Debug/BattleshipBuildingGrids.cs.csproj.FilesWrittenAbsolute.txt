@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/BattleshipBuildingGrids.cs/BattleshipBuildingGrids.cs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/BattleshipBuildingGrids.cs/BattleshipBuildingGrids.cs/bin/Debug/BattleshipBuildingGrids.cs.exe.mdb
+/Users/nelsfoltz/Desktop/BattleshipBuildingGrids.cs/BattleshipBuildingGrids.cs/bin/Debug/BattleshipBuildingGrids.cs.exe
+/Users/nelsfoltz/Desktop/BattleshipBuildingGrids.cs/BattleshipBuildingGrids.cs/obj/x86/Debug/BattleshipBuildingGrids.cs.exe
+/Users/nelsfoltz/Desktop/BattleshipBuildingGrids.cs/BattleshipBuildingGrids.cs/obj/x86/Debug/BattleshipBuildingGrids.cs.exe.mdb

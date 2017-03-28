@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/KataCode for github/FizzBuzzForLoop.cs/FizzBuzzForLoop.cs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/KataCode for github/FizzBuzzForLoop.cs/FizzBuzzForLoop.cs/bin/Debug/FizzBuzzForLoop.cs.exe.mdb
+/Users/nelsfoltz/Desktop/KataCode for github/FizzBuzzForLoop.cs/FizzBuzzForLoop.cs/bin/Debug/FizzBuzzForLoop.cs.exe
+/Users/nelsfoltz/Desktop/KataCode for github/FizzBuzzForLoop.cs/FizzBuzzForLoop.cs/obj/x86/Debug/FizzBuzzForLoop.cs.exe
+/Users/nelsfoltz/Desktop/KataCode for github/FizzBuzzForLoop.cs/FizzBuzzForLoop.cs/obj/x86/Debug/FizzBuzzForLoop.cs.exe.mdb

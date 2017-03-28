@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A9544924-5DF6-45A0-A8ED-AF98FBE607DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayMessagingwithEncryption.cs/Program.cs">
+    <Files>
+      <File FileName="ArrayMessagingwithEncryption.cs/Program.cs" Line="14" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ArrayMessagingwithEncryption.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2744994D-C040-4829-AF6A-04EB0650475B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BirthdaySeasonIfandCase.cs/Program.cs">
+    <Files>
+      <File FileName="BirthdaySeasonIfandCase.cs/Program.cs" Line="20" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BirthdaySeasonIfandCase.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

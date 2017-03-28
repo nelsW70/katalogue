@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/Functions.cs/Functions.cs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/Functions.cs/Functions.cs/bin/Debug/Functions.cs.exe.mdb
+/Users/nelsfoltz/Desktop/Functions.cs/Functions.cs/bin/Debug/Functions.cs.exe
+/Users/nelsfoltz/Desktop/Functions.cs/Functions.cs/obj/x86/Debug/Functions.cs.exe
+/Users/nelsfoltz/Desktop/Functions.cs/Functions.cs/obj/x86/Debug/Functions.cs.exe.mdb

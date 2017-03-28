@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/KataCode for github/PrintingInputToConsole.cs/PrintingInputToConsole.cs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/KataCode for github/PrintingInputToConsole.cs/PrintingInputToConsole.cs/bin/Debug/PrintingInputToConsole.cs.exe.mdb
+/Users/nelsfoltz/Desktop/KataCode for github/PrintingInputToConsole.cs/PrintingInputToConsole.cs/bin/Debug/PrintingInputToConsole.cs.exe
+/Users/nelsfoltz/Desktop/KataCode for github/PrintingInputToConsole.cs/PrintingInputToConsole.cs/obj/x86/Debug/PrintingInputToConsole.cs.exe
+/Users/nelsfoltz/Desktop/KataCode for github/PrintingInputToConsole.cs/PrintingInputToConsole.cs/obj/x86/Debug/PrintingInputToConsole.cs.exe.mdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzwithVariableRanges.cs", "FizzBuzzwithVariableRanges.cs\FizzBuzzwithVariableRanges.cs.csproj", "{19D49DF9-E26A-46BF-8A9E-17224C8031BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D49DF9-E26A-46BF-8A9E-17224C8031BE}.Debug|x86.ActiveCfg = Debug|x86
+		{19D49DF9-E26A-46BF-8A9E-17224C8031BE}.Debug|x86.Build.0 = Debug|x86
+		{19D49DF9-E26A-46BF-8A9E-17224C8031BE}.Release|x86.ActiveCfg = Release|x86
+		{19D49DF9-E26A-46BF-8A9E-17224C8031BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

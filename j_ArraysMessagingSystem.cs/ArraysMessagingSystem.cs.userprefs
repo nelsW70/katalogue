@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FA84159A-7F68-4B59-8143-8125C7CF9B37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArraysMessagingSystem.cs/Program.cs">
+    <Files>
+      <File FileName="ArraysMessagingSystem.cs/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ArraysMessagingSystem.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{67604C62-ADCC-4E32-8773-68C4B8417EA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.ElseIfandWhileloop.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElseIfandWhileloop.cs/Program.cs">
+    <Files>
+      <File FileName="ElseIfandWhileloop.cs/Program.cs" Line="40" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

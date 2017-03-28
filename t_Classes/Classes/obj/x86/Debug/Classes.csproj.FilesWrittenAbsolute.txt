@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/KataCode for github/Classes/Classes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/KataCode for github/Classes/Classes/bin/Debug/Classes.exe.mdb
+/Users/nelsfoltz/Desktop/KataCode for github/Classes/Classes/bin/Debug/Classes.exe
+/Users/nelsfoltz/Desktop/KataCode for github/Classes/Classes/obj/x86/Debug/Classes.exe
+/Users/nelsfoltz/Desktop/KataCode for github/Classes/Classes/obj/x86/Debug/Classes.exe.mdb

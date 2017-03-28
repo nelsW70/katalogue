@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AFF1CAE2-6D22-4970-B67D-6F8B5F8EFB1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrintingInputToConsole.cs/Program.cs">
+    <Files>
+      <File FileName="PrintingInputToConsole.cs/Program.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.PrintingInputToConsole.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

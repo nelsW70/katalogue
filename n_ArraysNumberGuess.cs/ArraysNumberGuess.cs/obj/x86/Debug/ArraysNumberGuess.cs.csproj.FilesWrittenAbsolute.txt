@@ -1,0 +1,5 @@
+/Users/nelsfoltz/Desktop/ArraysNumberGuess.cs/ArraysNumberGuess.cs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nelsfoltz/Desktop/ArraysNumberGuess.cs/ArraysNumberGuess.cs/bin/Debug/ArraysNumberGuess.cs.exe.mdb
+/Users/nelsfoltz/Desktop/ArraysNumberGuess.cs/ArraysNumberGuess.cs/bin/Debug/ArraysNumberGuess.cs.exe
+/Users/nelsfoltz/Desktop/ArraysNumberGuess.cs/ArraysNumberGuess.cs/obj/x86/Debug/ArraysNumberGuess.cs.exe
+/Users/nelsfoltz/Desktop/ArraysNumberGuess.cs/ArraysNumberGuess.cs/obj/x86/Debug/ArraysNumberGuess.cs.exe.mdb

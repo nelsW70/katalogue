@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{34D4F502-51DD-40B7-BAFE-5B0A3AE81D3F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MorseCodeconverterNestedForLoop.cs/Program.cs">
+    <Files>
+      <File FileName="MorseCodeconverterNestedForLoop.cs/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MorseCodeconverterNestedForLoop.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

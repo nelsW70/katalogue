@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{98269CDA-5121-44A9-BB10-DF084AC330EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArraysNumberGuess.cs/Program.cs">
+    <Files>
+      <File FileName="ArraysNumberGuess.cs/Program.cs" Line="21" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ArraysNumberGuess.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D8C2ACDE-001B-4D2C-8317-837E36CB7F4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleshipBuildingGrids.cs/Program.cs">
+    <Files>
+      <File FileName="BattleshipBuildingGrids.cs/Program.cs" Line="14" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BattleshipBuildingGrids.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
