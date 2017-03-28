@@ -2,4 +2,4 @@ A compilation of fully functional programs that you can copy, paste, and run. Th
 
 They are arranged in alphabetical order from simple to complex.
 
-Have fun and happy learning! 
+Have fun and happy coding! 
