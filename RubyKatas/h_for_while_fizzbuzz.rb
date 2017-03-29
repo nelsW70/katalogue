@@ -10,11 +10,7 @@ for i in 1..100
 end
 
 
-
-
 #and
-
-
 
 
 for i in 100.downto(1)
@@ -29,14 +25,7 @@ for i in 100.downto(1)
 end
 
 
-
-
-
 #and
-
-
-
-
 
 
 i = 0

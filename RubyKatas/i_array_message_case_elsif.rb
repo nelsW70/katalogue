@@ -24,14 +24,7 @@ while run_prog == true
 end
 
 
-
-
-
 #and
-
-
-
-
 
 
 inbox = []  #sets up the array for the message

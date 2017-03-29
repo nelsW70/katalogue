@@ -22,11 +22,7 @@ elsif crop == "beets"
 end
 
 
-
-
 #and
-
-
 
 
 puts "What month were you born in?"

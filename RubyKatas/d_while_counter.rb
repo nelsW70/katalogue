@@ -5,11 +5,7 @@ while counter <= 10
 end
 
 
-
-
 #or (on one line)
-
-
 
 
 counter = 0
