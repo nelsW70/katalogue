@@ -12,6 +12,11 @@ end
 
 
 
+#and
+
+
+
+
 for i in 100.downto(1)
     if i % 15 == 0
         puts "Fizzbuzz"
@@ -22,6 +27,14 @@ for i in 100.downto(1)
     else puts i
     end
 end
+
+
+
+
+
+#and
+
+
 
 
 

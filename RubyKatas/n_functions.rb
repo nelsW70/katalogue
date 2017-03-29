@@ -7,6 +7,8 @@ puts multiply(2, 3)
 
 
 
+#and
+
 
 
 def add_a_bird(name)
@@ -16,6 +18,8 @@ end
 puts add_a_bird("Bosephus")
 
 
+
+#and
 
 
 
@@ -27,6 +31,9 @@ puts "Name something and we'll add a bird to it!"
 puts add_a_bird(gets.chomp)
 
 
+
+
+#and
 
 
 

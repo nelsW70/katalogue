@@ -27,6 +27,12 @@ end
 
 
 
+#and
+
+
+
+
+
 
 inbox = []  #sets up the array for the message
 

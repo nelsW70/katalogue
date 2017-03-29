@@ -4,7 +4,13 @@ while counter <= 10
     counter = counter + 1
 end
 
-#or on one line
+
+
+
+#or (on one line)
+
+
+
 
 counter = 0
 while counter <= 10

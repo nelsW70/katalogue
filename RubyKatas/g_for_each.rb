@@ -5,6 +5,16 @@ end
 
 
 
+
+
+
+#and
+
+
+
+
+
+
 q = ["John", "Saturn"]
 q.each do |i|
     puts i

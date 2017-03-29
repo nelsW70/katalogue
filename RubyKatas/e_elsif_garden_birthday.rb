@@ -24,6 +24,11 @@ end
 
 
 
+#and
+
+
+
+
 puts "What month were you born in?"
 month = gets.chomp.downcase
 

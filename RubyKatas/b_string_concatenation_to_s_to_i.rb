@@ -4,6 +4,9 @@ puts "\nLook out, it's a giant " + response + "-bird!"
 
 
 
+#and
+
+
 
 puts "\nWhat's your name partner?"
 name = gets.chomp
